@@ -6,4 +6,4 @@
 - [Home] (#Home)
 - [About](https://github.com/Houcinos/acme-web-design/blob/master/about.md)
 - [Services] (#Services)
-- [Coach] (#Coach)
+- [Coach](https://github.com/Houcinos/acme-web-design/blob/master/coach.md)
