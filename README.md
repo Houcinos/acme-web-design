@@ -4,6 +4,6 @@
 ### Contents
 
 - [Home] (#Home)
-- [About] (#About)
+- [About] (https://github.com/Houcinos/acme-web-design/blob/master/about.md)
 - [Services] (#Services)
 - [Coach] (#Coach)
