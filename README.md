@@ -5,5 +5,5 @@
 
 - [Home](https://github.com/Houcinos/acme-web-design/blob/master/home.md)
 - [About](https://github.com/Houcinos/acme-web-design/blob/master/about.md)
-- [Services] (#Services)
+- [Services](https://github.com/Houcinos/acme-web-design/blob/master/services.md)
 - [Coach](https://github.com/Houcinos/acme-web-design/blob/master/coach.md)
